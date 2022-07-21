@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmanage_money"]=self["webpackChunkmanage_money"]||[]).push([[443],{3242:function(n,a,e){e.r(a),e.d(a,{default:function(){return l}});var u=e(6252);const t={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),s=[r];function c(n,a){return(0,u.wg)(),(0,u.iD)("div",t,s)}var o=e(3744);const i={},f=(0,o.Z)(i,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.e3900567.js.map
