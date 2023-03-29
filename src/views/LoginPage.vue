@@ -14,7 +14,7 @@
 					<span class="button__text">Log In</span>
 				</button>	
 				<span style="margin:10px ;cursor: pointer;text-decoration: underline;font-weight: 600;" @click="redirectRegister()">
-					register now 
+					register now !
 				</span>							
 			</form>
 			<div class="social-login">
